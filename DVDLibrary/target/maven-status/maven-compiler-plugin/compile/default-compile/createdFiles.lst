@@ -1,0 +1,10 @@
+DVDLibrary/UI/UserIO.class
+DVDLibrary/dao/DVDLibraryDaoException.class
+DVDLibrary/controller/DVDLibraryController.class
+App/java/App.class
+DVDLibrary/Dto/DVD.class
+DVDLibrary/dao/Update.class
+DVDLibrary/dao/DVDLibraryDaoFileImpl.class
+DVDLibrary/dao/DVDLibraryDao.class
+DVDLibrary/UI/DVDLibraryView.class
+DVDLibrary/UI/DVDLibraryConsoleImpl.class
